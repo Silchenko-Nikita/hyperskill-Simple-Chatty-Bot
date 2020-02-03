@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-The_Hello_World_program_main" target="11" />
+      <module name="Problems-The_Hello_World_program_test" target="11" />
+      <module name="Problems__1_-The_Hello_World_program_main" target="11" />
+      <module name="Problems__1_-The_Hello_World_program_test" target="11" />
+      <module name="Problems__2_-From_0_to_4_main" target="11" />
+      <module name="Problems__2_-From_0_to_4_test" target="11" />
+      <module name="Problems__3_-We_need_to_learn_Java_main" target="11" />
+      <module name="Problems__3_-We_need_to_learn_Java_test" target="11" />
+      <module name="Problems__4_-The_result_of_a_Tic-Tac-Toe_game_main" target="11" />
+      <module name="Problems__4_-The_result_of_a_Tic-Tac-Toe_game_test" target="11" />
+      <module name="Problems__5_-Reading_integer_numbers_main" target="11" />
+      <module name="Problems__5_-Reading_integer_numbers_test" target="11" />
+      <module name="Problems__6_-Printing_strings_in_the_same_order_main" target="11" />
+      <module name="Problems__6_-Printing_strings_in_the_same_order_test" target="11" />
+      <module name="Problems__7_-Printing_each_word_in_a_new_line_main" target="11" />
+      <module name="Problems__7_-Printing_each_word_in_a_new_line_test" target="11" />
+      <module name="Simple_Chatty_Bot-task_main" target="11" />
+      <module name="Simple_Chatty_Bot-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
